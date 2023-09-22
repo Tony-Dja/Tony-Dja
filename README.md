@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"> </h1>
+<p align="center"> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"> </p>
 
 <div align="center">
 
