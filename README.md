@@ -1,4 +1,4 @@
-<p align="center" style="font-size:18px;font-weight:bold;">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"> </p>
+<p align="center" style="size:18px;font-weight:bold;"><strong>Hi there</strong> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45" height="45"> </p>
 
 <div align="center">
 
